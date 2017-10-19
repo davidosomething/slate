@@ -4,7 +4,7 @@ import Base64 from 'slate-base64-serializer'
 import TRANSFER_TYPES from '../constants/transfer-types'
 
 /**
- * Trasnfer types.
+ * Transtypofer types.
  *
  * @type {String}
  */
